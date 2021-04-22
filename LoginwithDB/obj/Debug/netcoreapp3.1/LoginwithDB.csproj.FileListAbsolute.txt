@@ -1,0 +1,15 @@
+C:\Users\simone.lawson\source\my-apps\LoginwithDB\bin\Debug\netcoreapp3.1\LoginwithDB.exe
+C:\Users\simone.lawson\source\my-apps\LoginwithDB\bin\Debug\netcoreapp3.1\LoginwithDB.deps.json
+C:\Users\simone.lawson\source\my-apps\LoginwithDB\bin\Debug\netcoreapp3.1\LoginwithDB.runtimeconfig.json
+C:\Users\simone.lawson\source\my-apps\LoginwithDB\bin\Debug\netcoreapp3.1\LoginwithDB.runtimeconfig.dev.json
+C:\Users\simone.lawson\source\my-apps\LoginwithDB\bin\Debug\netcoreapp3.1\LoginwithDB.dll
+C:\Users\simone.lawson\source\my-apps\LoginwithDB\bin\Debug\netcoreapp3.1\LoginwithDB.pdb
+C:\Users\simone.lawson\source\my-apps\LoginwithDB\obj\Debug\netcoreapp3.1\LoginwithDB.csprojAssemblyReference.cache
+C:\Users\simone.lawson\source\my-apps\LoginwithDB\obj\Debug\netcoreapp3.1\LoginwithDB.Form1.resources
+C:\Users\simone.lawson\source\my-apps\LoginwithDB\obj\Debug\netcoreapp3.1\LoginwithDB.csproj.GenerateResource.cache
+C:\Users\simone.lawson\source\my-apps\LoginwithDB\obj\Debug\netcoreapp3.1\LoginwithDB.AssemblyInfoInputs.cache
+C:\Users\simone.lawson\source\my-apps\LoginwithDB\obj\Debug\netcoreapp3.1\LoginwithDB.AssemblyInfo.cs
+C:\Users\simone.lawson\source\my-apps\LoginwithDB\obj\Debug\netcoreapp3.1\LoginwithDB.csproj.CoreCompileInputs.cache
+C:\Users\simone.lawson\source\my-apps\LoginwithDB\obj\Debug\netcoreapp3.1\LoginwithDB.dll
+C:\Users\simone.lawson\source\my-apps\LoginwithDB\obj\Debug\netcoreapp3.1\LoginwithDB.pdb
+C:\Users\simone.lawson\source\my-apps\LoginwithDB\obj\Debug\netcoreapp3.1\LoginwithDB.genruntimeconfig.cache
